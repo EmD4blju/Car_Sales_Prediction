@@ -1,0 +1,13 @@
+[project]
+name = "car-sales-prediction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "pygwalker>=0.4.9.14",
+    "seaborn>=0.13.2",
+]
