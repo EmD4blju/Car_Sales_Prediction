@@ -49,4 +49,9 @@ def auto_test(training_set:pd.DataFrame, testing_set:pd.DataFrame) -> np.ndarray
     
     predictions = model.predict(X=X_test_encoded)
     
-    return predictions
+    results_df = pd.DataFrame(data={
+        'ID': testing_set.index,
+        target_column: predictions
+    }).set_index(keys='ID')
+    
+    return results_df
