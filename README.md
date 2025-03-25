@@ -2,7 +2,7 @@
 
 ## Opis Dokumentu
 
-Ten dokument to dokumentacja analizy i predykcji cen samochodowych. Analiza dotyczy zbioru “sales_ads_train.csv” przygotowanego przez PJATK Data Science Club (DSC). W ramach projektu zmagamy się z problemem ściśle regresyjnym polegającym na określeniu najdokładniejszej ceny samochodu przy pomocy 23 unikalnych atrybutów wymienionych w sekcji **Opis zbioru danych**.
+Ten dokument to dokumentacja analizy i predykcji cen samochodowych. Analiza dotyczy zbioru “sales_ads_train.csv” przygotowanego przez PJATK Data Science Club (DSC). W ramach projektu zmagamy się z problemem ściśle regresyjnym polegającym na określeniu najdokładniejszej ceny samochodu przy pomocy 23 unikalnych atrybutów wymienionych w sekcji **Opis zbioru danych**. Dla tego problemu i czyszczenia danych dobrany został program dataiku w celu zapoznania się z nim i przetestowania jak działa.
 
 ## Opis Zbioru Danych
 
