@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=6.29.5",
+    "keras>=3.9.0",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.1",
     "numpy>=2.2.3",
+    "optuna>=4.2.1",
     "pandas>=2.2.3",
     "pygwalker>=0.4.9.14",
+    "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "xgboost>=3.0.0",
 ]
