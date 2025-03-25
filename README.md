@@ -116,5 +116,3 @@ Zbór treningowy podzielono na podzbiory testowy i treningowy.
 - Dodatkowa poprawa RMSE o **1 000**.
 
 ---
-
-[Colab]
